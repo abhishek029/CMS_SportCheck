@@ -1,0 +1,1 @@
+<footer class="columns text-center">This is a footer Copyright - 2019 <a href="admin/index.php">Login</a></footer>
